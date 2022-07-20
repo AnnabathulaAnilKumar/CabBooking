@@ -23,7 +23,7 @@ The purpose of this application is to manage the cab request by its employees. a
 Download the source code from github and then extract the source code into your System by creating one folder after that you have to import the project into Spring Suite Tool and Visual Studio and run the application.
 <h2>Contributors</h2>
 <ol>
-<li> Dinesh Babu </li>
-<li> Anil Kumar </li>
-<li> Hari Babu </li>
+<li> B. Dinesh Babu </li>
+<li> A. Anil Kumar </li>
+<li> P. Hari Babu </li>
 <ol>
